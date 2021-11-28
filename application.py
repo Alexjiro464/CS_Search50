@@ -19,6 +19,6 @@ app.config["SESSION_TYPE"]= "filesystem"
 @app.route("/", methods= ["GET", "POST"])
 # login required
 def index():
-    Nombre = ["Alejandro", "Hector", "Joshua"]
+    Nombre = ["Alejandro", "Hector", "Joshua", "Jeffersson", "David"]
     return render_template("index.html", Nombre = Nombre)
-
+ 
