@@ -1,0 +1,21 @@
+git add .
+git commit -m "Description"
+git push origin master
+
+# al crear la rama se especifica el nombre
+
+# Recordar el comando para unir, y la base de datos. :) 
+
+# aqui podemos ocupar cm anotaciones
+
+# si creo una tabla cuando ya la cree hay un error
+
+# hay que hacer una tabla de libros y otra de resenas
+
+# si tenemos tiempo, podriamos crear otra tabla para peliculas
+
+# crear una base de datos en vez de la api, igualmente se pueden usar ambas (deberiamos usar ambas) (depende de lo que necesitemos)
+
+la verdad voy a intentar terminar el pset
+
+asi seria? p
